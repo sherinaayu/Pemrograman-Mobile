@@ -235,5 +235,10 @@ Output:
 Menunjukkan bahwa kita menyukai sticktank
 ![alt text](image2.png)
 Lalu, tidak menyukai oldgod dan langsung mengklik next.
+Pasangan Kata Acak: Di tengah layar, aplikasi menampilkan pasangan kata acak yang dihasilkan oleh paket english_words. Ini akan terlihat dalam bentuk teks yang ditampilkan di dalam kartu besar.
+Tombol "Like" dan "Next":
+Tombol "Like" memungkinkan pengguna untuk menandai pasangan kata sebagai favorit. Jika pasangan kata tersebut sudah ditandai, ikon di tombol akan berubah menjadi jantung penuh (favorit).
+Tombol "Next" menghasilkan pasangan kata baru setiap kali ditekan.
 ![alt text](image3.png)
-Jika ingin mengetahui siapa yang disukai, maka akan muncul berapa yang disukai dan apa yang disukai.
+Jika pengguna berpindah ke halaman "Favorites", aplikasi akan menampilkan daftar pasangan kata yang telah ditandai sebagai favorit.
+Jika belum ada pasangan kata yang ditandai, aplikasi akan menampilkan pesan yang menyatakan "No favorites yet."
